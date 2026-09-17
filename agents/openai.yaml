@@ -1,0 +1,7 @@
+interface:
+  display_name: "Git On"
+  short_description: "一句话完成敏感信息检查、Git 提交和 GitHub 安全发布"
+  default_prompt: "使用 $git-on 把这个项目上传到 GitHub 上。"
+
+policy:
+  allow_implicit_invocation: true
